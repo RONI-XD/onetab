@@ -13,7 +13,7 @@ $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install --upgrade pip
-$ git clone https://github.com/Al-Vino/cracking6
+$ git clone https://github.com/fozycomon/onetab
 $ ls ( L kecil )
 $ cd cracking6
 $ python mom.py
@@ -21,10 +21,10 @@ $ python mom.py
 ## Cara Update
 ```php
 $ cd
-$ cd cracking6
+$ cd onetab
 $ ls ( L kecil )
 $ git pull
-$ python mom.py
+$ python V1.py
 ```
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Al-Vino) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/mhmdbadru23)
